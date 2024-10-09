@@ -17,9 +17,9 @@ Databases: MySQL
 Learning about blockchain technology and its applications.
 
 ## 📫 How to Reach Me:
-lmakweya021@student.wethinkcode.co.za
-https://www.linkedin.com/in/lesego-makweya-5777a11b3
-https://github.com/lmakweya9
+Email: lmakweya021@student.wethinkcode.co.za
+LinkedIn: https://www.linkedin.com/in/lesego-makweya-5777a11b3
+Github: https://github.com/lmakweya9
 
 Thanks for stopping by! Let’s build something amazing together. 🚀
 
