@@ -17,7 +17,7 @@ Databases: MySQL
 Learning about blockchain technology and its applications.
 
 ## 📫 How to Reach Me:
-Email: lmakweya021@student.wethinkcode.co.za
+Email: beginnerspingacademy@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/lesego-makweya-5777a11b3
 
