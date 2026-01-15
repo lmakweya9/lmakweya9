@@ -9,9 +9,9 @@ Women in Tech: I'm an advocate for women in STEM and believe in encouraging more
 Gaming: I love to play video games during my spare time, favourite games to play is Skyrim, Fifa and the Sims.
 
 ## Websites I've helped build
-xcore.solutions
-mel-sa.co.za
-gznattorneys.co.za
+xcore.solutions,
+mel-sa.co.za,
+gznattorneys.co.za,
 pdcareercoaching.co.za.
 
 ## 💻 Technologies I Work With:
