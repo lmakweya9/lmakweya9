@@ -8,13 +8,19 @@ Coding: I enjoy developing efficient, scalable, and clean solutions using modern
 Women in Tech: I'm an advocate for women in STEM and believe in encouraging more girls to pursue careers in technology.
 Gaming: I love to play video games during my spare time, favourite games to play is Skyrim, Fifa and the Sims.
 
+## Websites I've helped build
+xcore.solutions
+mel-sa.co.za
+gznattorneys.co.za
+pdcareercoaching.co.za.
+
 ## 💻 Technologies I Work With:
 Languages: Python, JavaScript, HTML, CSS
 Frameworks: React
 Tools: Git, Docker
 Databases: MySQL
 ## 📚 What I’m Learning:
-Learning about blockchain technology and its applications.
+Learning about AI.
 
 ## 📫 How to Reach Me:
 Email: beginnerspingacademy@gmail.com
