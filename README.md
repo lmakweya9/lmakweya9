@@ -1,47 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Lesego 
 
-## 👩‍💻 About Me
-Hi there! I’m Lesego Makerya, a software developer. My journey in tech started when I went to study at WeThinkCode and my love for tech grew as I have learned the basic fundamentals of programming. 
+Junior Software Developer | Python | Web Development | AI & NLP
 
-## 🌟 My Passions:
-Coding: I enjoy developing efficient, scalable, and clean solutions using modern programming languages and frameworks.
-Women in Tech: I'm an advocate for women in STEM and believe in encouraging more girls to pursue careers in technology.
-Gaming: I love to play video games during my spare time, favourite games to play is Skyrim, Fifa and the Sims.
+I am a passionate developer focused on building practical applications using Python, web technologies, and artificial intelligence. I enjoy solving real-world problems through clean, efficient, and user-friendly software.
 
-## Websites I've helped build
-xcore.solutions,
-mel-sa.co.za,
-gznattorneys.co.za,
-pdcareercoaching.co.za.
+---
 
-## 💻 Technologies I Work With:
-Languages: Python, JavaScript, HTML, CSS
-Frameworks: React
-Tools: Git, Docker
-Databases: MySQL
-## 📚 What I’m Learning:
-Learning about AI.
+## 🚀 Featured Projects
 
-## 📫 How to Reach Me:
-Email: beginnerspingacademy@gmail.com
+### 🧮 Math Expression Evaluator
+Desktop calculator with custom parser, Tkinter GUI, debug mode, and history tracking.  
+🔗 https://github.com/lmakweya9/math-expression-evaluator
 
-LinkedIn: https://www.linkedin.com/in/lesego-makweya-5777a11b3
+### 🤖 TalentMatch AI Platform
+AI-powered resume and job matching platform with fairness and bias analysis.  
+🔗 https://github.com/lmakweya9/talentmatch-ai-platform
 
-Github: https://github.com/lmakweya9
+### 📄 FairCV Match
+Interpretable NLP system for CV and job description matching.  
+🔗 https://github.com/lmakweya9/faircv-match
 
-Thanks for stopping by! Let’s build something amazing together. 🚀
+### 🏥 Smart Health Assistant
+AI health assistant using NLP and speech synthesis (educational use).  
+🔗 https://github.com/lmakweya9/smart_health_assistant
 
-<!--
-**lmakweya9/lmakweya9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programming: Python, JavaScript, HTML, CSS  
+- Frameworks & Tools: Tkinter, React, Git, GitHub  
+- AI/ML: NLP, Model Evaluation, Fairness Analysis  
+- Databases: SQLite, Firebase (basic)
+
+---
+
+## 📈 Currently Learning
+
+- Advanced Python
+- Desktop application development
+- Software testing
+- System design basics
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/lesego-makweya-5777a11b3/
+- Email: lesego@xcore.solutions
+
+---
+
+⭐ Feel free to explore my repositories and connect with me.
