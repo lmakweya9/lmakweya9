@@ -15,7 +15,7 @@ A full-stack management suite for freelancers to track clients, project budgets,
 🔗 [Live Demo](https://freelance-dashboard-ruddy.vercel.app) | [Backend Repo](https://github.com/lmakweya9/freelance-api-xyz)
 
 ### 🤖 TalentMatch AI Platform
-AI-powered resume and job matching platform featuring fairness and bias analysis to ensure equitable hiring.
+AI-powered resume and job matching pltform featuring fairness and bias analysis to ensure equitable hiring.
 🔗 [View Repo](https://github.com/lmakweya9/talentmatch-ai-platform)
 
 ### 🧮 Math Expression Evaluator
@@ -25,6 +25,11 @@ Advanced desktop calculator featuring a custom parser, Tkinter GUI, and session 
 ### 📄 FairCV Match
 An interpretable NLP system designed for matching CVs and job descriptions with high accuracy and transparency.
 🔗 [View Repo](https://github.com/lmakweya9/faircv-match)
+
+## Live Websites
+https://xcore.solutions/
+https://mel-sa.co.za/
+https://pdcareercoaching.co.za/
 
 ---
 
